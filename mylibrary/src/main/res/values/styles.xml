@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyRoundedCornerTextView">
+        <attr name="rounded_corner_strokeColor" format="color" />
+        <attr name="rounded_corner_strokeWidth" format="dimension" />
+        <attr name="rounded_corner_backgroundColor" format="color" />
+        <attr name="rounded_corner_cornerWidth" format="dimension" />
+        <attr name="rounded_corner_centerText" format="string" />
+        <attr name="rounded_corner_textSize" format="dimension" />
+        <attr name="rounded_corner_textColor" format="color" />
+    </declare-styleable>
+
+</resources>
